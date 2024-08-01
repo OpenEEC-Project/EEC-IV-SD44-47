@@ -6,3 +6,9 @@ Pin spacing staggered pad to adjacent pad: 2.5mm
 Pin width: 0.5mm
 Pad width 1.5mm
 Lateral distance from inward pad to outward pad: 2.75mm
+Package dimensions: 24mm x 24mm
+Side of package protruding from left-most pin: 1.75mm
+Distance from side of package to outward pin: 4mm
+Distance from side of package to inward pin (I don't think accurate, and redundant info): 2mm
+Outside pin around corner to outside pin (not a very accurate measurement): 6mm
+
