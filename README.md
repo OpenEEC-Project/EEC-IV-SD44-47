@@ -9,3 +9,5 @@ One day I may build files for other style EEC-IVs, like EFI-SD36E, or EFI-SD21E,
 Donations welcome, as in sending me some EEC-IV PCMs lol I am lacking in the EFI-SD4x category, but am really interested in '94-'95 MAF SFI truck 4.9/5.0/5.8 EEC-IVs, and 7.5L batch fire EEC-IV or MAF EEC-V PCMs.
 
 Doing this in spare time and when motivated, so progress may be slow.
+
+Project started by pcwizzy37
